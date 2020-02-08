@@ -8,6 +8,6 @@ python3 -m pip install paddlepaddle_gpu-1.6.3-cp36-cp36m-linux_aarch64.whl
 Verification:
 $python3
 
->>> import paddle.fluid
+>>>import paddle.fluid
 
->>> paddle.fluid.install_check.run_check()
+>>>paddle.fluid.install_check.run_check()
